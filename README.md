@@ -1,6 +1,6 @@
 # Rishabh Gupta
 
-I’m a software engineer with 12+ years of experience building large-scale distributed systems and data infrastructure. I’m interested in the boundaries between dependable data systems, AI engineering, software architecture, and security—especially the details that determine how systems behave in production.
+I’m a software engineer with [12+ years of experience](https://www.linkedin.com/in/rishabhfyi/) building large-scale distributed systems and data infrastructure. I’m interested in the boundaries between dependable data systems, AI engineering, software architecture, and security—especially the details that determine how systems behave in production.
 
 ## What I’m exploring
 
@@ -14,7 +14,7 @@ I contribute to [Apache DataFusion](https://github.com/apache/datafusion), a que
 
 ## Projects
 
-### [GenAI Observability Security](https://github.com/rgbuilds/genai-observability-security)
+[GenAI Observability Security](https://github.com/rgbuilds/genai-observability-security)
 
 A reproducible study of the trade-off between forensic utility and plaintext exposure in GenAI telemetry retention. The repository includes a frozen study protocol, implementation, automated tests, privacy-safe aggregate data, and validation artifacts.
 
