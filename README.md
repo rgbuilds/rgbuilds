@@ -21,7 +21,3 @@ A reproducible study of the trade-off between forensic utility and plaintext exp
 ## Writing
 
 [SparseVector](https://sparsevector.ai) is my independent space for practical experiments, technical explanations, and observations from building software. I write about data infrastructure, AI systems, architecture, and security, with an emphasis on mechanisms and reproducible examples.
-
----
-
-[SparseVector](https://sparsevector.ai) · [LinkedIn](https://www.linkedin.com/in/rishabhfyi/)
